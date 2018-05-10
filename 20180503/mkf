@@ -1,0 +1,2 @@
+touch ./include/$1.h
+touch ./resource/$1.c
